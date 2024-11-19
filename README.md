@@ -1,4 +1,15 @@
-# Fantom Resources
+
+## Table of Contents
+- [📝 About](#-about)
+- [🎁 Resources](#-resources)
+  - [Fantom Tools & Libraries](#fantom-tools--libraries)
+  - [SkySpark Tools & Extensions](#skyspark-tools--extensions)
+  - [Tutorials & Learning Resources](#tutorials--learning-resources)
+  - [Open-Source Fantom Examples](#open-source-fantom-examples)
+- [🚀 Getting Started](#-getting-started)
+- [🙄 The Boring Stuff](#-the-boring-stuff)
+
+## About
 
 Welcome to **Fantom Resources**, the magical land where all your dreams of learning **Fantom** and **SkySpark** come true—assuming your dreams involve sifting through other people's work. This is not the holy grail; it’s just a repository. But hey, it’s better than aimlessly wandering the internet, right?
 
