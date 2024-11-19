@@ -42,14 +42,27 @@ Honestly, you probably don’t. But... you did find your way here somehow. So, t
 
 If it exists, I *might* have linked it. If I didn't, then it wasn't marketed well enough. 
 
-### Fantom Tools & Libraries
-- **[Fant](https://github.com/fantom-lang/fant)**: The official package manager for Fantom. A real lifesaver if you enjoy typing `fant install` repeatedly.  
+### Interface with SkySpark from.... not SkySpark 
+- **[Phable](https://github.com/skyfoundry/phable)**: A Haystack API client library for **python**, because JSON parsing is the new cardio.  
+  *Developer: SkyFoundry.*
+  
+### Code Editors, IDE's & Extensions
+I like VS code. 
+- [Fantom Support for VS Code](http://www.patience-is-a-virtue.org/)
+- [Axon Support for VS Code](http://www.patience-is-a-virtue.org/)
+- [VS Code for SkySpark](http://www.patience-is-a-virtue.org/)
+
+Others don't.
+- Eclipse
+- Xored F4
+
+### Fantom Libraries
+- **[Fantom Source](https://github.com/fantom-lang)**: The official package manager for Fantom. A real lifesaver if you enjoy typing `fant install` repeatedly.  
   *Developer: Fantom Foundation.*
+- **[haxall repo](https://github.come/haxall)
 
 ### SkySpark Tools & Extensions
 - **[SkySpark Core Docs](https://www.skyfoundry.com/doc)**: Official docs. Read them if you like manuals or need a cure for insomnia.  
-  *Developer: SkyFoundry.*
-- **[Phable](https://github.com/skyfoundry/phable)**: A Haystack API client library, because JSON parsing is the new cardio.  
   *Developer: SkyFoundry.*
 - **[Haxall](https://haxall.io/)**: SkySpark, but open-source and slightly riskier. Like swimming with sharks.  
   *Developer: SkyFoundry.*
@@ -59,10 +72,10 @@ If it exists, I *might* have linked it. If I didn't, then it wasn't marketed wel
   *Developer: Fantom Foundation.*
 - **[Axon Quick Start](https://www.skyfoundry.com/learn/axon)**: Your crash course in Axon. Spoiler: it’s SkySpark’s scripting language.  
   *Developer: SkyFoundry.*
+- **[Fantom Factory]**: These people are amazing and hilarious. And British. Give them your money.
 
-### Open-Source Fantom Examples
-- **[Fantom Starter Projects](https://github.com/fantom-lang/fantom-starter)**: Sample projects so you can pretend to know what you’re doing.  
-  *Developer: Fantom Foundation.*
+### Forum Posts (i know this is ridiculous, but you'll thank me later.)
+- [2094]: something about something
 
 ---
 
