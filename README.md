@@ -45,6 +45,7 @@ If it exists, I *might* have linked it. If I didn't, then it wasn't marketed wel
 ### Interface with SkySpark from.... not SkySpark 
 - **[Phable](https://github.com/skyfoundry/phable)**: A Haystack API client library for **python**, because JSON parsing is the new cardio.  
   *Developer: SkyFoundry.*
+- **[Node.js stuff](https://bitbucket.org/skyfoundry/haystack-auth-node/src/master/_)**
   
 ### Code Editors, IDE's & Extensions
 I like VS code. 
