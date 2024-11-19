@@ -36,6 +36,8 @@ Honestly, you probably don’t. But... you did find your way here somehow. So, t
 
 ---
 
+# Resources
+### hello
 ## 🎁 The Ultimate (and Probably Incomplete) Resource List
 
 If it exists, I *might* have linked it. If I didn't, then it wasn't marketed well enough. 
