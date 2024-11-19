@@ -9,7 +9,7 @@
 - [🚀 Getting Started](#-getting-started)
 - [🙄 The Boring Stuff](#-the-boring-stuff)
 
-## About
+# About
 
 Welcome to **Fantom Resources**, the magical land where all your dreams of learning **Fantom** and **SkySpark** come true—assuming your dreams involve sifting through other people's work. This is not the holy grail; it’s just a repository. But hey, it’s better than aimlessly wandering the internet, right?
 
@@ -37,7 +37,7 @@ Honestly, you probably don’t. But... you did find your way here somehow. So, t
 ---
 
 # Resources
-### hello
+
 ## 🎁 The Ultimate (and Probably Incomplete) Resource List
 
 If it exists, I *might* have linked it. If I didn't, then it wasn't marketed well enough. 
@@ -66,7 +66,8 @@ If it exists, I *might* have linked it. If I didn't, then it wasn't marketed wel
 
 ---
 
-## 🚀 Getting Started (I'm lazy, you're lazy, lets accept it and just move on)
+# Getting Started
+## 🚀 Setup (I'm lazy, you're lazy, lets accept it and just move on)
 
 1. **Clone the Repo**:
    ```
@@ -86,6 +87,7 @@ If it exists, I *might* have linked it. If I didn't, then it wasn't marketed wel
 
 ---
 
+# The Boring Stuff
 ## 🤝 How to Contribute (Please Do)
 
 We get it—you have opinions. Great. Add to this repo:
