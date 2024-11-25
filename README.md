@@ -1,146 +1,64 @@
-
-## Table of Contents
-- [📝 About](#-about)
-- [🎁 Resources](#-resources)
-  - [Fantom Tools & Libraries](#fantom-tools--libraries)
-  - [SkySpark Tools & Extensions](#skyspark-tools--extensions)
-  - [Tutorials & Learning Resources](#tutorials--learning-resources)
-  - [Open-Source Fantom Examples](#open-source-fantom-examples)
-- [🚀 Getting Started](#-getting-started)
-- [🙄 The Boring Stuff](#-the-boring-stuff)
-
 # About
 
-Welcome to **Fantom Resources**, the magical land where all your dreams of learning **Fantom** and **SkySpark** come true—assuming your dreams involve sifting through other people's work. This is not the holy grail; it’s just a repository. But hey, it’s better than aimlessly wandering the internet, right?
+If you're here, you know that ChatGPT sucks at Fantom, and even more so at Axon. Welcome to the club. No doubt you also know that there are limited/scattered resources for learning Fantom & Axon. 
 
-By now you've realized that ChatGPT sucks at Fantom, and even more so at Axon. Welcome to the club. 
+This repo is my attempt at documenting my learning journey in hopes it can help someone else. Fair warning: I come from engineering, not CS. If you have a CS background you probably think my approach to learning is ridiculous, so fair warning. 
 
----
-
-## 📂 What's in This Glorious Collection?
-
-Two things, and don’t expect more:
-1. **Links to resources someone else made**: I’ve "curated" a list of resources (read: Googled for you) that helped me learn.
-2. **Pre-built development environments**: The only thing I hate more than baked fruit (pie is the worst dessert, don't @ me) is configuring development environments. Fret not, for I have suffered for you. Clone it, run it, pretend you're grateful and lets move on from this repulsive topic.
-
-If you're trying to learn basic SkySpark, you're in the wrong spot. Stop now, don't try, this will bore you and you'll end up hating SkySpark. 
-
----
-
-## 🤔 Why Should You Care?
-
-Honestly, you probably don’t. But... you did find your way here somehow. So, this might help you...
-- Learn Fantom or SkySpark without pulling your hair out.
-- Avoid painful setup and just start coding.
-- Find some code you can copy/paste, since you've definitely already tried chatgpt and stack-overflow.
+Here you will find 
+1. A curated (read: stumbled upon) list of resources that helped me out
+2. An attempt to collect these resources into an easily-usable & mess-around-able format
 
 ---
 
 # Resources
 
-## 🎁 The Ultimate (and Probably Incomplete) Resource List
+## 🎁 Common Resources
 
-If it exists, I *might* have linked it. If I didn't, then it wasn't marketed well enough. 
-
-### Interface with SkySpark from.... not SkySpark 
-- **[Phable](https://github.com/skyfoundry/phable)**: A Haystack API client library for **python**, because JSON parsing is the new cardio.  
+### Interface with SkySpark from other langs
+- **[Phable (python)](https://github.com/skyfoundry/phable)**: A Haystack API client library for **python**, because JSON parsing is the new cardio.  
   *Developer: SkyFoundry.*
-- **[Node.js stuff](https://bitbucket.org/skyfoundry/haystack-auth-node/src/master/_)**
+- **[Node.js](https://bitbucket.org/skyfoundry/haystack-auth-node/src/master/_)**
+- **[Cross Platform]**(https://github.com/fanx-dev/vase)
   
 ### Code Editors, IDE's & Extensions
-I like VS code. 
-- [Fantom Support for VS Code](http://www.patience-is-a-virtue.org/)
-- [Axon Support for VS Code](http://www.patience-is-a-virtue.org/)
-- [VS Code for SkySpark](http://www.patience-is-a-virtue.org/)
+I like VS code, so started work on a fully featured fantom ext. 
+- [Fantom Support for VS Code](https://marketplace.visualstudio.com/items?itemName=jamesdgessel.fantom-support)
 
-Others don't.
-- Eclipse
-- Xored F4
+Others don't, and use some of the ides found [here](https://fantom-lang.org/ide)
 
 ### Fantom Libraries
-- **[Fantom Source](https://github.com/fantom-lang)**: The official package manager for Fantom. A real lifesaver if you enjoy typing `fant install` repeatedly.  
-  *Developer: Fantom Foundation.*
-- **[haxall repo](https://github.come/haxall)
+- [Fantom Source]([https://github.com/fantom-lang](https://github.com/fantom-lang/fantom))
+- [haxall repo](https://github.come/haxall): open source IoT tooling
 
 ### SkySpark Tools & Extensions
-- **[SkySpark Core Docs](https://www.skyfoundry.com/doc)**: Official docs. Read them if you like manuals or need a cure for insomnia.  
-  *Developer: SkyFoundry.*
-- **[Haxall](https://haxall.io/)**: SkySpark, but open-source and slightly riskier. Like swimming with sharks.  
-  *Developer: SkyFoundry.*
+- **[SkySpark Core Docs](https://www.skyfoundry.com/doc)** (requires login) *Developer: SkyFoundry.*
+- **[SkySpark Fantom Docs](https://www.skyfoundry.com/doc/docIntro/index)**
+- **[Haxall](https://haxall.io/)** *Developer: SkyFoundry.*
 
 ### Tutorials & Learning Resources
-- **[Fantom Lang Website](https://fantom.org)**: The official Fantom site. Come for the language, stay for the bland design.  
-  *Developer: Fantom Foundation.*
-- **[Axon Quick Start](https://www.skyfoundry.com/learn/axon)**: Your crash course in Axon. Spoiler: it’s SkySpark’s scripting language.  
-  *Developer: SkyFoundry.*
-- **[Fantom Factory]**: These people are amazing and hilarious. And British. Give them your money.
+- **[Fantom Lang Website](https://fantom.org)** *Developerd: Brian & Andy Frank.*
+- **[Fantom Factory](https://www.fantomfactory.com/)**: These people are amazing and hilarious. And British. Give them your money.
+- **[Alien Factory](https://www.alienfactory.co.uk/articles/)**: Steve (Co-Founder of Fantom Factory) is a Fantom legend. He has provided more resources than anyone except for the Frank's themselves. 
 
-### Forum Posts (i know this is ridiculous, but you'll thank me later.)
-- [2094]: something about something
+## Less Common Resources
+
+### People/Orgs
+- [Peter Lane's Diary](https://peterlane.codeberg.page/diary/diary.html), active on the forum, posts some helpful articles 
+- [Xored](https://github.com/xored) made the F4 ide and has some repos
+- [Fantom Factory Repo](https://github.com/Fantom-Factory) is a gold mine of pods, exts, examples, tools, etc
+### Specific Forum Posts
+- Coming later
 
 ---
 
 # Getting Started
-## 🚀 Setup (I'm lazy, you're lazy, lets accept it and just move on)
-
-1. **Clone the Repo**:
-   ```
-   git clone https://github.com/your-username/fantom-resources.git
-   cd fantom-resources
-   ```
-
-2. **Initialize Submodules**:
-   If you've got a stick up yo.... if you don't want to deal with submodules you don't have to. But you'll regret it since there's some good stuff in there.
-   ```bash
-   git submodule update --init --recursive
-   ```
-
-4. **Find Your Way Around**:
-   - `environments/`: Pre-built setups. Minimal effort required.
-   - `resources.md`: Links to stuff we didn’t want to host directly.
-
----
-
-# The Boring Stuff
-## 🤝 How to Contribute (Please Do)
-
-We get it—you have opinions. Great. Add to this repo:
-1. **Fork it**.
-2. Add your precious resource under the right folder.  
-3. Submit a pull request. Or don’t. We’re not your boss.
-
-> ⚠️ **Important**: Don’t upload someone else’s files unless you like lawyers. Just link it and give them credit like a decent human being.
-
----
-
-## 🛠️ Found a Problem? Cool.
-
-Open an issue [here](https://github.com/your-username/fantom-resources/issues). Be descriptive, or don’t. We’ll figure it out. Or not.
-
----
-
-## 🎓 About Fantom and SkySpark
-
-**Fantom**: A programming language that’s niche enough to make you feel special.  
-**Axon**: I can't decide if its more or less niche... but its easier to learn and more useful if you're just using SkySpark. 
-**SkySpark**: An analytics tool for buildings, because HVAC data isn’t going to optimize itself.
+## 🚀 Planning to add some notes on how you can use the code in this repo, coming soon. 
 
 ---
 
 ## 📝 License
 
-This whole thing is under the **[MIT License](LICENSE)**. Share, steal, modify—whatever. Just don’t blame me if it breaks. 
+This whole thing is under the **[MIT License](LICENSE)**. 
 
 Oh, and respect the licenses under other repos. 
 
----
-
-## 🌐 Join the Cult—Er, Community
-
-Still want more? Fine:
-- [Fantom Forum](https://fantom.org/forum) – Where Fantom enthusiasts hang out. Yes, there are a few. Just a few. 
-- [SkySpark Forum](https://www.skyfoundry.com/forum) – If you’re into energy analytics *that much*.
-- [Official Fantom Website](https://fantom.org) – The OG source.
-
-Good luck. You’ll need it.
-```
